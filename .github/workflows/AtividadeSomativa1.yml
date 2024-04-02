@@ -1,5 +1,5 @@
 name: AtividadeSomativa1-index.yml
-
+# pipeline criada para validar pagina web index.html
 on:
   push:
     branches: ["main"]
